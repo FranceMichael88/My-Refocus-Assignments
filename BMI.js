@@ -31,4 +31,6 @@ function yourBmi (bmi){
     
   
 }
-yourBmi(bmi)
+yourBmi(bmi);
+
+module.exports = weigthMeter;
