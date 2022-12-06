@@ -1,0 +1,23 @@
+{
+  "name": "my-refucos-assignments",
+  "version": "1.0.0",
+  "description": "My name is France im a non COMSCI and IT student here in Refucos. This is is amazing e-Learning platform the community managers are awesome the support staffs are easy to contact with specially the  mentor are the best.",
+  "main": "BMI.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranceMichael88/My-Refocus-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranceMichael88/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/FranceMichael88/My-Refocus-Assignments#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
