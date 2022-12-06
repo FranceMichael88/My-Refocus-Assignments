@@ -6,6 +6,7 @@ var bmiResult = weigthMeter / meter;
 var bmi = (bmiResult * 100 / 100 ).toFixed(1);
 
 
+
 function yourBmi (bmi){
     if (bmi <=18.5 ) {
         console.log(`your BMI is: ${bmi}`)
